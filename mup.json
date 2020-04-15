@@ -1,0 +1,21 @@
+{
+    "servers": [
+        {
+            "host": "68.183.43.93",
+            "username": "root",
+            "password": "Rwbento123"
+        }
+    ],
+    "setupMongo": true,
+    "setupNode": true,
+    "nodeVersion": "8.10.0",
+    "setupPhantom": true,
+    "enableUploadProgressBar": true,
+    "appName": "arest",
+    "app": ".",
+    "env": {
+        "ROOT_URL": "http://localhost",
+        "PORT": 3000
+    },
+    "deployCheckWaitTime": 120
+}
