@@ -4,7 +4,7 @@
             "host": "68.183.43.93",
             "username": "root",
             "password": "Rwbento123",
-            "pem": "~/.ssh/id_rsa"
+            "pem": " /etc/ssh/ssh_host_rsa_key"
         }
     ],
     "setupMongo": true,
