@@ -3,7 +3,8 @@
         {
             "host": "68.183.43.93",
             "username": "root",
-            "password": "Rwbento123"
+            "password": "Rwbento123",
+            "pem": "~/.ssh/id_rsa"
         }
     ],
     "setupMongo": true,
